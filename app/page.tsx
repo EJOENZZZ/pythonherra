@@ -38,7 +38,7 @@ export default function WelcomePage() {
 
       {/* Main Title */}
       <h1 className="text-4xl md:text-5xl font-bold mb-3 tracking-tight">
-        EJO HEALTH MANAGEMENT
+        EJO HEALTH 
       </h1>
 
       {/* Tagline */}
